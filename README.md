@@ -12,6 +12,7 @@ Superior de Ingeniería (ICAI), Departamento de Organización
 Industrial, Universidad Pontificia Comillas.
 https://pascua.iit.comillas.edu/aramos/simio/transpa/t_se_as.p
 df
+
 • Zendesk. (2024, 20 marzo). Sistemas expertos e Inteligencia
 Artificial: EXPLICADOS.
 
